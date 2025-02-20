@@ -1,0 +1,15 @@
+# [tipo](alcance): descripción corta
+# 
+# Descripción detallada
+# 
+# - Cambio 1
+# - Cambio 2
+#
+# Tipo debe ser uno de los siguientes:
+# feat: Nueva característica
+# fix: Corrección de error
+# docs: Cambios en documentación
+# style: Cambios de formato
+# refactor: Refactorización de código
+# test: Adición o modificación de tests
+# chore: Cambios en el build o herramientas auxiliares
